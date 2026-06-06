@@ -2,7 +2,7 @@
 
 ### A passionate Frontend developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rymk1&label=Profile views&color=0e75b6&style=flat" alt="rymk1" /> </p>
+<p align="left"> <img src="https://pin.it/23tcf3ENM" alt="rymk1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rymk1" alt="rymk1" /></a> </p>
 
